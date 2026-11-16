@@ -1,1 +1,9 @@
+{
+  "appId": "com.nova.homegains",
+  "appName": "Home Gains",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
 
